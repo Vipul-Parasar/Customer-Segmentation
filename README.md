@@ -29,11 +29,13 @@ Analyze customer behavior to improve business strategies using Python, PCA, KPCA
 ---
 
 ## 📊 Highlights / Visualizations
-- Interactive polar charts showing clusters and feature contributions  
-- Scatter plots of clusters by Channel and Region  
-- Insights for targeted marketing strategies and business decisions  
+- **Clustered Customer Segments** using PCA, Kernel PCA, and K-Means for both linear and nonlinear patterns.  
+- **Interactive Polar Charts** built with Plotly to compare spending behavior across categories for each cluster.  
+- **Channel & Region-Based Scatter Plots** to analyze how customer groups differ by business type and location.  
+- **Business Insights:** identified high-value segments, supported targeted marketing, and informed supply chain planning.  
 
-📌 Check out the interactive chart [here](https://raw.githack.com/Vipul-Parasar/Customer-Segmentation/main/Result.html)  
+📌 Explore the interactive visualization [here](https://raw.githack.com/Vipul-Parasar/Customer-Segmentation/main/Result.html)  
+
 
 ---
 
