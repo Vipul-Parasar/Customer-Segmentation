@@ -33,7 +33,7 @@ Analyze customer behavior to improve business strategies using Python, PCA, KPCA
 - Scatter plots of clusters by Channel and Region  
 - Insights for targeted marketing strategies and business decisions  
 
-📌 Check out the interactive chart [here](https://rawcdn.githack.com/Unseen-Elder/Customer_segmentation/ae0f191233b23d94e2fb810b1a34992d636d06a1/Result.html)  
+📌 Check out the interactive chart [here](https://raw.githack.com/Vipul-Parasar/Customer-Segmentation/main/Result.html)  
 
 ---
 
